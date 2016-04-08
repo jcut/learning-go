@@ -11,7 +11,7 @@ func main() {
 
 	}
 
-	for j:=3 ; j<=9 ; j++ {
+	for j := 3; j <= 9; j++ {
 		fmt.Println(j)
 
 	}
@@ -20,7 +20,5 @@ func main() {
 		fmt.Println("Looping In Tha Hood")
 		break
 	}
-
-
 
 }
